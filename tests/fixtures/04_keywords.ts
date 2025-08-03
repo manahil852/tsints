@@ -1,0 +1,21 @@
+type _ =
+| string
+| number
+| boolean
+| symbol
+| bigint
+| any
+| unknown
+| void
+| never
+| null
+| undefined
+| string._
+| number._
+| boolean._
+| symbol._
+| bigint._
+| any._
+| unknown._
+| never._
+| undefined._;

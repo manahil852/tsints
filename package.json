@@ -1,0 +1,11 @@
+{
+  "name": "tsints",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "@babel/parser": "^7.28.0",
+    "@types/node": "^24.1.0",
+    "prettier": "^3.6.2",
+    "vitest": "^3.2.4"
+  }
+}
