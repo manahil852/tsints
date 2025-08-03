@@ -14,6 +14,8 @@ a parser for typescript types, written in typescript types (no js here!)
 
 > i cant wait to do ludicrous shit with ts7 speeds
 
+> why are you like this
+
 ## usage
 
 code like this
