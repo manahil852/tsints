@@ -4,6 +4,8 @@ a parser for typescript types, written in typescript types (no js here!)
 
 ## testimonials
 
+> please no please I beg you (@jakebailey)
+
 > EM WHAT THE FUCK
 
 > ur deranged
