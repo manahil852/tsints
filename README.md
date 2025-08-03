@@ -2,6 +2,16 @@
 
 a parser for typescript types, written in typescript types (no js here!)
 
+## testimonials
+
+> EM WHAT THE FUCK
+
+> ur deranged
+
+> hell yeah
+
+> i cant wait to do ludicrous shit with ts7 speeds
+
 ## usage
 
 code like this
@@ -53,4 +63,4 @@ type _ = {
 
 ## should i use this
 
-idk, do you want to wait 5 seconds waiting for typescript to evaluate the parsing code?
+idk, do you want to spend 5 extra seconds every time you run tsc waiting for it to evaluate the parsing code?
