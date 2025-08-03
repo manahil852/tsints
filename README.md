@@ -4,7 +4,7 @@ a parser for typescript types, written in typescript types (no js here!)
 
 ## testimonials
 
-> please no please I beg you (@jakebailey)
+> please no please I beg you — [@jakebailey.dev](https://bsky.app/profile/jakebailey.dev/post/3lvhyr23ir22u)
 
 > EM WHAT THE FUCK
 
